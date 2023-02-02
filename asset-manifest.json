@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador-clic/static/css/main.f9b6dc94.css",
+    "main.js": "/contador-clic/static/js/main.c43db8dd.js",
+    "index.html": "/contador-clic/index.html",
+    "main.f9b6dc94.css.map": "/contador-clic/static/css/main.f9b6dc94.css.map",
+    "main.c43db8dd.js.map": "/contador-clic/static/js/main.c43db8dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b6dc94.css",
+    "static/js/main.c43db8dd.js"
+  ]
+}
